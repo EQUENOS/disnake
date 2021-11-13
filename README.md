@@ -1,2 +1,2 @@
 # disnake
-Redirects to the actual repository
+The repository is located at https://github.com/DisnakeDev/disnake
